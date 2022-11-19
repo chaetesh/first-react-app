@@ -1,7 +1,7 @@
 import React,{useState} from "react";
 
 export default function AboutUs() {
-    // Setting CSS using objects in JS
+    // Setting CSS using State objects in JS
     const [myStyle, setmyStyle] = useState({
         backgroundColor:"black",
         color:"white",
